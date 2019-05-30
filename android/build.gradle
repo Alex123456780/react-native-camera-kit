@@ -34,7 +34,7 @@ dependencies {
     //noinspection GradleDynamicVersion
     compileOnly 'com.facebook.react:react-native:+'
     // implementation 'com.facebook.react:react-native:+'
-    implementation 'com.android.support:recyclerview-v7:25.0.1'
+    implementation 'com.android.support:recyclerview-v7:28.0.0'
     implementation 'com.google.zxing:core:3.3.0'
     implementation group: 'com.drewnoakes', name: 'metadata-extractor', version: '2.9.1'
 }
